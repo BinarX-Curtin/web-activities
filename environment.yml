@@ -8,5 +8,6 @@ dependencies:
   - ipywidgets>=8.0.0,<9
   - scipy
   - numpy
+  - psutil
   - astropy
   - pytest-astropy
