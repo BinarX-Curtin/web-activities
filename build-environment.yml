@@ -5,5 +5,18 @@ dependencies:
   - python
   - pip
   - pip:
-    - jupyterlite-xeus>=0.1.5,<0.2
+    # - jupyterlite-xeus>=0.1.5,<0.2
     - voici>=0.5,<0.6
+    - jupyterlite-pyodide-kernel==0.2.1
+    - jupyterlab~=4.0.11
+    - notebook~=7.0.7
+    - jupyterlab-night
+    - jupyterlab_miami_nights
+    - ipywidgets==8.1.1
+    - ipyevents>=2.0.1
+    - ipympl>=0.8.2
+    - ipycanvas>=0.9.1
+    - ipyleaflet
+    - plotly==5.21.0
+    - bqplot
+    - astropy
